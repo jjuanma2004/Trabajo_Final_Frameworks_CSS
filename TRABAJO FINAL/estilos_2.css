@@ -1,0 +1,28 @@
+
+#Cocina{
+  text-align: right;
+}
+#item{
+  text-align:center;
+}
+#Buscar{
+  border-radius: 100px;
+}
+#img{
+  width: 100px;
+  height: 100px;
+}
+#Historial{
+  background-color: #A4A4A4;
+  border-radius: 50px;
+}
+#Historial_1{
+  background-color: white;
+}
+#item_1{
+  text-align:left;
+}
+#img_1{
+  width: 70px;
+  height: 50px;
+}
